@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Iris. I recently graduated from Emory University with a B.S. in Computer Science with Highest Honors. My research interests are in [your research interests here — fill in a sentence or two].
+Hi, I'm Iris. I recently graduated from Emory University with a B.S. in Computer Science with Highest Honors. My research interests are in .
 
 Education
 ======
 * **B.S. in Computer Science**, Emory University, 2026
   * GPA: 3.94 / 4.0
-  * Highest Honors
   * Advisor: Dr. Kai Shu
 
 Honors and Awards
